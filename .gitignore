@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+out/
+*.log
+.DS_Store
+screenshots/*.tmp
